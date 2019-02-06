@@ -8,4 +8,4 @@ export default (props) => {
             {props.imageRight? <SlideRight content={props} /> : <SlideStandar content={props}/>}
         </Paper>
     )
-}git remote add origin https://github.com/Phlammariont/inter-telco.git
+}
